@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 
 
 ## :fork_and_knife: Technologies & Tools
-[![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&labelColor=2c3e50&logoColor=D5CD00&color=004578)] [python]
-[![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)] [django]
-
-[![](https://img.shields.io/badge/DjangoRestFramework-informational?style=flat&logo=DjangoRESTFramework&labelColor=2c3e50&logoColor=BDC3C7&color=DC0101)] [django-rest-framework]
-[![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastAPI&labelColor=2c3e50&logoColor=1abc9c&color=1abc9c)] [fastapi]
-[![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=D5CD00 &color=1abc9c)] [javascript]
-[![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=61DBFB&color=1abc9c)] [reactjs]
-[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)] [bash]
-[![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)][visualstudio]
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&labelColor=2c3e50&logoColor=D5CD00&color=004578)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/DjangoRestFramework-informational?style=flat&logo=DjangoRESTFramework&labelColor=2c3e50&logoColor=BDC3C7&color=DC0101)
+![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastAPI&labelColor=2c3e50&logoColor=1abc9c&color=1abc9c)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=D5CD00 &color=1abc9c)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=61DBFB&color=1abc9c)]
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
 
 
 ## :octocat: GitHub Stats
