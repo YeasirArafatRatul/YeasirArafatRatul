@@ -42,9 +42,28 @@ Here are some ideas to get you started:
 
 
 
+## 📘 Read My Book Written On Python Programming Language - 3
+<a href="https://app.gitbook.com/@bangla-python-book/s/python-programming-language/">
+  <img alt="Python Programming Language - 3 Image" src="image/book.png" />
+</a>
+
 ## :confetti_ball: Profile Visitors
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=YeasirArafatRatul.visitor-badge)
+  
+### 🤝Get in touch with me through the attached links:  
+
+<a href="https://www.facebook.com/yeasirarafat.ratul">
+  <img alt="Yeasir Arafat Ratul on Facebook" src="https://img.shields.io/badge/-Facebook-1A4730?style=flat-square&logo=Facebook&logoColor=blue" />
+</a>
+<a href="https://www.linkedin.com/in/yeasir-arafat-ratul-3114b7184/">
+  <img alt="Yeasir Arafat Ratul on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=blue" />
+</a>
+<a href="mailto:arafatyeasir3@gmail.com">
+  <img alt="Yeasir Arafat Ratul on Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=red" />
+</a>
+
+
 
 <!-- Definitions -->
 [YeasirArafatRatul]: https://github.com/YeasirArafatRatul
