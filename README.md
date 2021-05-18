@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :fork_and_knife: Technologies & Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&labelColor=2c3e50&logoColor=D5CD00&color=004578)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&labelColor=092e20&logoColor=092e20&color=1abc9c)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&labelColor=092e20&logoColor=092e20&color=d8d8d8)
 ![](https://img.shields.io/badge/DjangoRestFramework-informational?style=flat&logo=DjangoRESTFramework&labelColor=2c3e50&logoColor=BDC3C7&color=DC0101)
 ![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastAPI&labelColor=2c3e50&logoColor=1abc9c&color=1abc9c)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=D5CD00&color=1abc9c)
