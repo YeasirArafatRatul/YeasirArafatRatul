@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## 📘 Read My Book Written On Python Programming Language - 3
 <a href="https://app.gitbook.com/@bangla-python-book/s/python-programming-language/">
-  <img alt="Python Programming Language - 3 Image" src="image/book.png" />
+  <img alt="Python Programming Language - 3 Image" src="image/book_cover.png" />
 </a>
 
 ## :confetti_ball: Profile Visitors
