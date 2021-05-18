@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 ## :octocat: GitHub Stats
 
 <a href="https://github.com/YeasirArafatRatul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasirArafatRatul&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=002395&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Ratul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasirArafatRatul&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=FF7D7D&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Ratul's GitHub Stats" />
 </a>
 
 ## :octocat: Most Used Languages
 
 <a href="https://github.com/YeasirArafatRatul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirArafatRatul&&title_color=76D7C4&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirArafatRatul&&title_color=FF7D7D&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
 </a>
 
 
