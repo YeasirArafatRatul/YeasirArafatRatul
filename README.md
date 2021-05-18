@@ -1,4 +1,4 @@
-### Hey there, I am Yeasir Arafat Ratul 👋
+### Hey there, I am Yeasir Arafat Ratul :cowboy_hat_face: from Bangladesh :bangladesh:
 <!--
 **YeasirArafatRatul/YeasirArafatRatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 -->
 
 
-## :fork_and_knife: Technologies & Tools
+## :hammer_and_wrench: Technologies & Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&labelColor=2c3e50&logoColor=D5CD00&color=004578)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&labelColor=d8d8d8&logoColor=092e20&color=d8d8d8)
-![](https://img.shields.io/badge/DjangoRestFramework-informational?style=flat&logo=DjangoRESTFramework&labelColor=2c3e50&logoColor=BDC3C7&color=DC0101)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&labelColor=2c3e50&logoColor=092e20&color=092e20)
+![](https://img.shields.io/badge/DjangoRESTFramework-informational?style=flat&logo=Django&labelColor=2c3e50&logoColor=990000&color=990000)
 ![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastAPI&labelColor=2c3e50&logoColor=1abc9c&color=1abc9c)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=D5CD00&color=1abc9c)
-![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=61DBFB&color=1abc9c)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=BDC3C7&color=1abc9c)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=D5CD00&color=D5CD00)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=61DBFB&color=61DBFB)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&labelColor=2c3e50&logoColor=f34f29&color=f34f29)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=540D6E)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=0078d7)
+![](https://img.shields.io/badge/Sublime_Text-informational?style=flat&logo=sublime-text&labelColor=2c3e50&logoColor=FF9800&color=FF9800)
 
 
 ## :octocat: GitHub Stats
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasirArafatRatul&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=FF7D7D&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Ratul's GitHub Stats" />
 </a>
 
-## :octocat: Most Used Languages
+## :clipboard: Most Used Languages
 
 <a href="https://github.com/YeasirArafatRatul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirArafatRatul&&title_color=FF7D7D&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
