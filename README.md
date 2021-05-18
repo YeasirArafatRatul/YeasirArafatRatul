@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## :confetti_ball: Profile Visitors
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=YeasirArafatRatul.visitor-badge)][Ratul]
+![](https://visitor-badge.laobi.icu/badge?page_id=YeasirArafatRatul.visitor-badge)
 
 <!-- Definitions -->
 [YeasirArafatRatul]: https://github.com/YeasirArafatRatul
