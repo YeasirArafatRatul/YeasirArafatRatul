@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔍 Profile Visitors
+![](https://visitor-badge.laobi.icu/badge?page_id=YeasirArafatRatul.visitor-badge)
 
 
 ## :hammer_and_wrench: Technologies & Tools
@@ -27,30 +29,25 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=0078d7)
 ![](https://img.shields.io/badge/Sublime_Text-informational?style=flat&logo=sublime-text&labelColor=2c3e50&logoColor=FF9800&color=FF9800)
 
-
-## :octocat: GitHub Stats
-
+<h2 align="left"> :octocat:  GitHub Stats</h2>
 <a href="https://github.com/YeasirArafatRatul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasirArafatRatul&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=FF7D7D&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Ratul's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YeasirArafatRatul&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=FF7D7D&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Ratul's GitHub Stats" />
 </a>
 
-## :clipboard: Most Used Languages
-
+<h2 align="left"> :clipboard: Most Used Languages</h2>
 <a href="https://github.com/YeasirArafatRatul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasirArafatRatul&&title_color=FF7D7D&text_color=c9cacc&icon_color=F0DB4F&bg_color=2c3e50" />
 </a>
 
 
-## 📘 My Book Written On Python Programming Language - 3
+📘 My Book Written On Python Programming Language - 3
+
 <a href="https://app.gitbook.com/@bangla-python-book/s/python-programming-language/">
-  <img alt="Python Programming Language - 3 Image" src="image/book_cover.png" />
+  <img  alt="Python Programming Language - 3 Image" src="image/book_cover.png" />
 </a>
 
-## :confetti_ball: Profile Visitors
 
-![](https://visitor-badge.laobi.icu/badge?page_id=YeasirArafatRatul.visitor-badge)
-  
-### 🤝Get in touch with me through the attached links:  
+🤝Find Me On: 
 
 <a href="https://www.facebook.com/yeasirarafat.ratul">
   <img alt="Yeasir Arafat Ratul on Facebook" src="https://img.shields.io/badge/-Facebook-1A4730?style=flat-square&logo=Facebook&logoColor=blue" />
