@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/yeasir-arafat-ratul-3114b7184/">
   <img alt="Yeasir Arafat Ratul on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=blue" />
 </a>
-<a href="mailto:arafatyeasir3@gmail.com">
+<a href="mailto:ratul.yeasirarafat@gmail.com">
   <img alt="Yeasir Arafat Ratul on Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=red" />
 </a>
 
