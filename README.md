@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 ### 📘 My Books
 #### 📘 Python Programming Language - 3
 <a href="https://app.gitbook.com/@bangla-python-book/s/python-programming-language/">
-  <img  align="center" alt="Python Programming Language - 3 Image" src="image/book_cover.png" width="250" height="300"/>
+  <img  align="center" alt="Python Programming Language - 3 Image" src="image/book_cover.png" width="100" height="150"/>
 </a>
 
 #### 📘 Python For Kids (Upcoming)
 <a href="#">
-  <img  align="center" alt="Python For Kids Image" src="image/python_for_kids.jpeg" width="250" height="300" />
+  <img  align="center" alt="Python For Kids Image" src="image/python_for_kids.png" width="100" height="150" />
 </a>
 
 ### 🤝Find Me On: 
