@@ -67,8 +67,6 @@ Here are some ideas to get you started:
 
 
 
-
-
 <!-- Definitions -->
 [YeasirArafatRatul]: https://github.com/YeasirArafatRatul
 [Python]: https://python.org
