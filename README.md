@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=540D6E)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=0078d7)
 ![](https://img.shields.io/badge/Sublime_Text-informational?style=flat&logo=sublime-text&labelColor=2c3e50&logoColor=FF9800&color=FF9800)
+![](https://img.shields.io/badge/numpy-python-blue)
+![](https://img.shields.io/badge/pandas-python-yellow)
 
 <a href="https://github.com/YeasirArafatRatul">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=YeasirArafatRatul&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=FF7D7D&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="Ratul's GitHub Stats" />
