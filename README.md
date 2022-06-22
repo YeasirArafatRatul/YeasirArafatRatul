@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.rokomari.com/book/author/80051/yeasir-arafat-ratul">
-  <img  align="center" alt="Python For Kids Image" src="image/python_for_little_stars.png" width="100" height="130" />
+  <img  align="center" alt="Python For Kids Image" src="image/python_for_little_stars.png" width="110" height="130" />
 </a>
 
 
