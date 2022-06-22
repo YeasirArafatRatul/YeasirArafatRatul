@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YeasirArafatRatul)
  -->
 ### 📘 My Books
-#### 📘 Python Programming Language - 3    📘 Python For Kids (Upcoming)
+#### 📘 Python Programming Language - 3    📘 Python Programming For Little Stars
 <a href="https://app.gitbook.com/@bangla-python-book/s/python-programming-language/">
   <img  align="center" alt="Python Programming Language - 3 Image" src="image/book_cover.png" width="100" height="130"/>
 </a>
 
-<a href="#">
-  <img  align="center" alt="Python For Kids Image" src="image/python_for_kids.png" width="100" height="130" />
+<a href="https://www.rokomari.com/book/author/80051/yeasir-arafat-ratul">
+  <img  align="center" alt="Python For Kids Image" src="image/python_for_little_stars.png" width="100" height="130" />
 </a>
 
 ### 🤝Find Me On: 
