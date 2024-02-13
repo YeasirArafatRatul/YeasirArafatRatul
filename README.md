@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&labelColor=2c3e50&logoColor=092e20&color=092e20)
 ![](https://img.shields.io/badge/DjangoRESTFramework-informational?style=flat&logo=Django&labelColor=2c3e50&logoColor=990000&color=990000)
 ![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastAPI&labelColor=2c3e50&logoColor=1abc9c&color=1abc9c)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&labelColor=2c3e50&logoColor=D5CD00&color=D5CD00)
-![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&labelColor=2c3e50&logoColor=61DBFB&color=61DBFB)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&labelColor=2c3e50&logoColor=f34f29&color=f34f29)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNU-Bash&labelColor=2c3e50&logoColor=BDC3C7&color=540D6E)
 ![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&labelColor=2c3e50&logoColor=0078d7&color=0078d7)
